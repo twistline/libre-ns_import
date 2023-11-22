@@ -9,7 +9,7 @@ Transfer your diabetes data from Nightscout to LibreView.
 
 Open command line in your favorite folder:
 ```
-git clone https://github.com/alexandrrusskih/nightscout-to-libreview
+git clone https://github.com/twistline/libre-ns_import
 cd nightscout-to-libreview
 npm install
 npm start
